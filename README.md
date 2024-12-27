@@ -1,4 +1,4 @@
-# traffic_light_simulation 🚦
+# Traffic_Light_App 🚦
 
 Une application mobile développée en **Flutter** qui simule le fonctionnement des feux de circulation selon deux scénarios distincts. Ce projet vise à démontrer le cycle des feux de circulation et à offrir une interface intuitive et personnalisable.
 
