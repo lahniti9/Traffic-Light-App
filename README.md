@@ -44,16 +44,16 @@ L'application simule le fonctionnement des feux de circulation selon les scénar
 ## 📸 Captures d'Écran
 
 1. **Écran de démarrage (Splash Screen)**  
-   <img alt="Screenshot 2024-12-27 at 17 34 06" src="https://github.com/user-attachments/assets/a6678222-1b77-48b5-96fe-7f75372dc1e9" width="250" height="300" />
+   <img alt="Screenshot 2024-12-27 at 17 34 06" src="https://github.com/user-attachments/assets/a6678222-1b77-48b5-96fe-7f75372dc1e9" width="250" height="350" />
 
 
 2. **Page d'accueil**  
  
-<img width="250" height="300" alt="Screenshot 2024-12-27 at 17 38 00" src="https://github.com/user-attachments/assets/f4fae176-675d-42d0-a714-3e97d29b3f88" /> <img width="250" height="300" alt="Screenshot 2024-12-27 at 17 37 46" src="https://github.com/user-attachments/assets/c4bf52f7-7631-4491-8268-1b0d9f333341" /> <img width="250" height="300" alt="Screenshot 2024-12-27 at 17 37 29" src="https://github.com/user-attachments/assets/460fa535-85a1-45aa-abc1-c18194158e68" />
+<img width="250" height="350" alt="Screenshot 2024-12-27 at 17 38 00" src="https://github.com/user-attachments/assets/f4fae176-675d-42d0-a714-3e97d29b3f88" /> <img width="250" height="350" alt="Screenshot 2024-12-27 at 17 37 46" src="https://github.com/user-attachments/assets/c4bf52f7-7631-4491-8268-1b0d9f333341" /> <img width="250" height="350" alt="Screenshot 2024-12-27 at 17 37 29" src="https://github.com/user-attachments/assets/460fa535-85a1-45aa-abc1-c18194158e68" />
 
 3. **Page de paramètres**  
    
-<img width="250" height="300" alt="Screenshot 2024-12-27 at 17 38 17" src="https://github.com/user-attachments/assets/df7c6826-a7d6-4528-a0a2-63b749bc16c3" />
+<img width="250" height="350" alt="Screenshot 2024-12-27 at 17 38 17" src="https://github.com/user-attachments/assets/df7c6826-a7d6-4528-a0a2-63b749bc16c3" />
 
 ---
 
